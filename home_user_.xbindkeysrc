@@ -1,0 +1,6 @@
+# subir volumen
+"pamixer --increase 3"
+    XF86AudioRaiseVolume
+# bajar volumen
+"pamixer --decrease 3"
+    XF86AudioLowerVolume
